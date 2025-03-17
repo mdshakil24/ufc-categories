@@ -1,32 +1,32 @@
 [
   {
-    "id": 1,
+    "id": ufc1,
     "title": "Weight Loss",
-    "image": "weight-loss.jpg"
+    "image": "https://i.ibb.co.com/9HTL3nyx/c1.png"
   },
   {
-    "id": 2,
+    "id": ufc2,
     "title": "Sexual Health",
-    "image": "sexual-health.jpg"
+    "image": "https://i.ibb.co.com/Rpjn88xp/c2.png"
   },
   {
-    "id": 3,
+    "id": ufc3,
     "title": "Brain Health",
-    "image": "brain-health.jpg"
+    "image": "https://i.ibb.co.com/XxQw9P5X/c3.png"
   },
   {
-    "id": 4,
+    "id": ufc4,
     "title": "Testosterone HRT",
-    "image": "testosterone-hrt.jpg"
+    "image": "https://i.ibb.co.com/yFgxpdpc/c4.png"
   },
   {
-    "id": 5,
+    "id": ufc5,
     "title": "Athletic Performance",
-    "image": "athletic-performance.jpg"
+    "image": "https://i.ibb.co.com/CK2QVfyj/c5.png"
   },
   {
-    "id": 6,
+    "id": ufc6,
     "title": "Beauty and Hair Loss",
-    "image": "beauty-hair-loss.jpg"
+    "image": "https://i.ibb.co.com/84QYSyG1/c6.png"
   }
 ]
